@@ -1,4 +1,5 @@
 # nuxtjs_posts_api
+https://nuxtapi.netlify.app/
 
 ## Build Setup
 

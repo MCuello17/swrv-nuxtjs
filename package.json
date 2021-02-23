@@ -11,6 +11,7 @@
     "lint": "npm run lint:js"
   },
   "dependencies": {
+    "@vue/composition-api": "^1.0.0-rc.2",
     "core-js": "^3.8.3",
     "nuxt": "^2.14.12",
     "swrv": "^0.9.3"

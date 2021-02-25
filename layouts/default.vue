@@ -1,7 +1,7 @@
 <template>
   <section id="app">
     <navbar />
-    <article id="content" class="pt-24">
+    <article id="content" class="py-24">
       <Nuxt />
     </article>
   </section>
@@ -32,6 +32,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
+  color: #35495e;
 }
 
 *,
